@@ -1,0 +1,19 @@
+{
+  "name": "company-website",
+  "version": "1.0.0",
+  "description": "Repository for Company Website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RobDev71/Company-Website.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RobDev71/Company-Website/issues"
+  },
+  "homepage": "https://github.com/RobDev71/Company-Website#readme"
+}
